@@ -1,0 +1,3 @@
+Natural disasters such as earthquakes, floods, and hurricanes can cause significant damage and loss of life. Rapid dissemination of accurate information during such events is critical for effective emergency response and resource allocation. Social media platforms, particularly Twitter, have become vital channels for real-time information sharing during disasters. 
+However, the vast volume of tweets, including rumors and irrelevant information, makes it challenging to quickly identify actionable intelligence. 
+This project explores the application of Natural Language Processing (NLP) and Machine Learning (ML) techniques to filter and predict real disaster-related tweets, enhancing the ability of authorities and first responders to act swiftly and efficiently.
